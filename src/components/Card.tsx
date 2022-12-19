@@ -38,7 +38,7 @@ const Card = ({ Item }: ICardProps) => {
 const CardContainer = styled.div`
   position: relative;
   height: 375px;
-  width: 24%;
+  width: 350px;
   overflow: hidden;
   box-shadow: 0px 0px 1px;
   border-radius: 5px;
